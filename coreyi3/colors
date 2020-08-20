@@ -1,0 +1,45 @@
+
+*background:                      #1d1f21
+*foreground:                      #eaeaea
+*fading:                          8
+*fadeColor:                       black
+*cursorColor:                     #ffffff
+*pointerColorBackground:          #404040
+*pointerColorForeground:          #eaeaea
+
+!! black dark/light
+*color0:                          #1d1f21
+*color8:                          #373b41
+
+!! red dark/light
+*color1:                          #cc6666
+*color9:                          #cc6666
+
+!! green dark/light
+*color2:                          #b5bd68
+*color10:                         #b5bd68
+
+!! yellow dark/light
+*color3:                          #f0c674
+*color11:                         #f0c674
+
+!! blue dark/light
+*color4:                          #81a2be
+*color12:                         #81a2be
+
+!! magenta dark/light
+*color5:                          #b294bb
+*color13:                         #b294bb
+
+!! cyan dark/light
+*color6:                          #8abeb7
+*color14:                         #8abeb7
+
+!! white dark/light
+*color7:                          #D8D8D8
+*color15:                         #D8D8D8
+
+Xcursor.theme: xcursor-breeze
+Xcursor.size:                     0
+
+URxvt.font:                       9x15,xft:InconsolataNerdFontCompleteMono
